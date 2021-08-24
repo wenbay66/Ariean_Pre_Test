@@ -2,7 +2,7 @@
   "name": "ariean_pre_test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://wenbay66.github.io/Ariean_Pre_Test",
+  "homepage": "https://wenbay66.github.io/Ariean_Pre_Test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
